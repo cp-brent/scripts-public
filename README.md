@@ -26,3 +26,7 @@ New categories are added as needed (for example `networking/` or `windows/intune
 - **Versioning:** each script carries its own version number (`1.0.0`, bumped on change: patch for fixes, minor for new features, major for breaking changes).
 - **History:** every change is a git commit with a descriptive message, and is also summarized in [`CHANGELOG.md`](CHANGELOG.md).
 - **Secrets:** never commit passwords, API keys or tenant secrets. Read them from environment variables, a secrets vault or a prompt at run time.
+
+## License
+
+Released under the [MIT License](LICENSE). Free to use, modify and share; provided as-is with no warranty.
