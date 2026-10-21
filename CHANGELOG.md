@@ -4,6 +4,9 @@ All notable changes to this repository, newest first. Each entry lists the date,
 
 ## 2026-10-21
 
+### Added
+- `CLAUDE.md` with instructions for Claude: folder placement, templates, versioning, changelog, commit and publishing rules.
+
 ### Changed
 - Script templates now list Cloud Propeller, Inc. as author.
 
