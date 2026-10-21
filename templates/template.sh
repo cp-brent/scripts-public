@@ -4,7 +4,7 @@
 # Description : One-line description of what the script does.
 # Usage       : ./script-name.sh [options]
 # Requires    : Packages, permissions or tools needed.
-# Author      : Cloud Propeller
+# Author      : Cloud Propeller, Inc.
 # Version     : 1.0.0
 # Created     : YYYY-MM-DD
 #
