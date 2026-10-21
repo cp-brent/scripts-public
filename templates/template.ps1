@@ -13,7 +13,7 @@
     .\script-name.ps1 -Example "value"
 
 .NOTES
-    Author  : Brent
+    Author  : Cloud Propeller
     Version : 1.0.0
     Created : YYYY-MM-DD
 
