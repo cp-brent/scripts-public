@@ -1,0 +1,10 @@
+# Changelog
+
+All notable changes to this repository, newest first. Each entry lists the date, the scripts affected and what changed.
+
+## 2026-10-21
+
+### Added
+- Initial public repository structure: `windows/` (active-directory, microsoft-365, group-policy, general), `linux/` (kasm, general), `proxmox/` (vm-management, backup, general).
+- Script templates for PowerShell and Bash in `templates/`.
+- README with layout and conventions.
